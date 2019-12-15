@@ -1,5 +1,7 @@
 # GA_FinalProject
 
-I work in single cell RNA sequencing, specifically using the 10X Single Cell product (10X is the name of the company that made the reagent kits we use). For my final project I will be using a dataset that I have used at work.
+I work in single-cell RNA sequencing. In short: individual cells are isolated, DNA libraries are constructed from each cell, and the DNA code is read on a sequencer. Sophisticated pipelines help us deconvolute the raw DNA code into gene counts within each cell. 
 
-Recently we have run a validation experiment for one of our new single cell products, and I followed a Python tutorial to analyze the data.  The workflow uses clustering to groups cell types together, allowing us to identify what is what. For my project I will walk you through this tutorial; as a next step, I will take data from a different experiment and run it through similar clustering to see how this particular cell type compares to others. 
+For my final project I will be using a dataset that I have used at work.
+
+Recently we ran a validation experiment and I followed a Python tutorial to analyze the data.  The workflow uses clustering to groups similar cells together (based on their genetic code), thereby allowing us to identify and classify different cell types within a sample. For Part I of my project I will walk you through this tutorial. For Part II I use new data from a different experiment and run it through Part I's clustering to compare this new cell type to our previously classified ones. 
