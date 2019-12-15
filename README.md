@@ -1,6 +1,8 @@
 # GA_FinalProject
 
-I work in single-cell RNA sequencing. In short: individual cells are isolated, DNA libraries are constructed from each cell, and the DNA code is read on a sequencer. Sophisticated pipelines help us deconvolute the raw DNA code into gene counts within each cell. 
+I work in genomic science - specifically, single-cell RNA sequencing. 
+
+A very brief summary of what this process looks like: Individual cells are isolated, the DNA within is extracted, and the DNA code is read on a sequencer. Sophisticated pipelines help us deconvolute the DNA sequence and simplify it down to a matrix containing the gene counts within each cell. These matrices can be uploaded to Python or R for additional manual analysis.
 
 For my final project I will be using a dataset that I have used at work.
 
